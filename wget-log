@@ -1,0 +1,6 @@
+--2022-02-01 19:55:49--  https://api.alcaamado.es/api/v2/waifu2x/get?hash=47f8c66bef1ed1a11396aa69dcffc97f86b1ff41e9af5301aaaaa69f821d4f20
+Resolving api.alcaamado.es (api.alcaamado.es)... 91.121.146.217
+Connecting to api.alcaamado.es (api.alcaamado.es)|91.121.146.217|:443... connected.
+HTTP request sent, awaiting response... 400 
+2022-02-01 19:55:49 ERROR 400: (no description).
+
